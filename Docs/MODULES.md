@@ -1,0 +1,12 @@
+| Modul          | Status |
+| -------------- | ------ |
+| Authentication | v1.0   |
+| Dashboard      | v1.0   |
+| POS            | v1.0   |
+| Product        | v1.0   |
+| Inventory      | v1.0   |
+| Kitchen        | v1.0   |
+| Report         | v1.0   |
+| Settings       | v1.0   |
+| Customer       | v1.0   |
+| Supplier       | v1.0   |
